@@ -2,9 +2,9 @@
 
 ===
 
-GitHub‚ÌƒeƒXƒg
+GitHubã®ãƒ†ã‚¹ãƒˆ
 
-##ƒƒ“ƒo[
+##ãƒ¡ãƒ³ãƒãƒ¼
 
 *testmember
 
